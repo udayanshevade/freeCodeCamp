@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hast-util-select": "^2.1.0",
+    "hast-util-select": "^4.0.0",
     "hast-util-to-html": "^4.0.1",
     "js-yaml": "^3.14.0",
     "lodash": "^4.17.20",
